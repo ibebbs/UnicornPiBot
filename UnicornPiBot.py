@@ -29,4 +29,4 @@ stream = UnicornPiBotStreamer(
     access_token_secret
 )
 
-stream.statuses.filter(track='#DayOfRage')
+stream.statuses.filter(track='#INWED17')
